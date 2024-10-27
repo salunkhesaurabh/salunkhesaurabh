@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @salunkhesaurabh
-- 👀 I’m interested in ... Astronomy and Astrophysics
-- 🌱 I’m currently learning ... Astrophysics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saurabh Salunkhe
+- 👀 I’m the Senior Outreach Coordinator for the LIGO-India Educational public Outreach. 
+- 🌱 I’m looking for to collaborate and work on Astronomy & Astrophysics and Outreach Activities
 - 📫 How to reach me ... salunkhesaurabh1999@gmail.com
 
 <!---
